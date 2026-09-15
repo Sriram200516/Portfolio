@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // 1. TYPEWRITER EFFECT
     // ==========================================
     // Updated text array to show your specific roles
-    const textArray = ["Computer Science Student", "Software Developer", "Test Automation Enthusiast"];
+    const textArray = ["Computer Science Student", "Software Developer", "Web Development Enthusiast"];
     let textIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
